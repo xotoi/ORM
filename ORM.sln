@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2db", "ORM\Linq2db.csproj", "{B7ACB352-4FE3-4C93-92A2-C75DADDFCDA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "EF\EF.csproj", "{78F5AAB2-E93B-4B30-B27A-F997DB437E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7ACB352-4FE3-4C93-92A2-C75DADDFCDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7ACB352-4FE3-4C93-92A2-C75DADDFCDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7ACB352-4FE3-4C93-92A2-C75DADDFCDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7ACB352-4FE3-4C93-92A2-C75DADDFCDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F5AAB2-E93B-4B30-B27A-F997DB437E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F5AAB2-E93B-4B30-B27A-F997DB437E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F5AAB2-E93B-4B30-B27A-F997DB437E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F5AAB2-E93B-4B30-B27A-F997DB437E27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2082C5A-C7F2-402A-8DCA-9568B5E5CC21}
+	EndGlobalSection
+EndGlobal
